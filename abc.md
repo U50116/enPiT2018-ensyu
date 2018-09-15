@@ -1,2 +1,2 @@
 # ABCページ
-![内部リンク](/enPiT2018-ensyu/test.png)
+![内部リンク](./test.png "画像")
