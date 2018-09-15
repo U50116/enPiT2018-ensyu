@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
-title: enPiT2018 GitHub Pagesについて易しく解決します
+title: enPiT2018 GitHub pages チュートリアル
+description: GitHub Pagesについて易しく解決します
 github:
   is_project_page: false
