@@ -5,7 +5,7 @@
 *趣味*:読書<br>
 
 **もっと詳しいことは↓**<br>
-[こちら](https://u50116.github.io/enPiT2018-ensyu/abc"詳しいプロフィール")
+[こちら](https://u50116.github.io/enPiT2018-ensyu/abc" 詳しいプロフィール")
 
 
 
